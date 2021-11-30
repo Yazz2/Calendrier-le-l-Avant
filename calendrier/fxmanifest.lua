@@ -40,5 +40,5 @@ shared_script{
 }
 
 dependencies {
-
+'esx_license'
 }
