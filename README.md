@@ -1,3 +1,6 @@
+#Lire Impérativement avant de télécharger le script !
+
+
 # Calendrier-de-l'Avant
 Ce Calendrier est en RageuiV2 à 0.01ms si tu veut voir la preview rejoint https://discord.gg/kjHbNDE469 ou regarde https://www.youtube.com/watch?v=VuG2PbbRfw8 
 
