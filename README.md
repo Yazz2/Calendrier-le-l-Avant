@@ -8,7 +8,7 @@ Key : KAiBIehNuImVHitk2jR2-K94M6MSkN9was9TGgVPqFQ mapping by Weez
 # fxmanifest 
 
 (si vous avez le esx_license en core comme moi enlever dans le fxmanifest dependencies {'esx_license'} )
-
+Changer le chemin d'accés au fConcess par le votre reprenez ma ligne et modifier pour vous
 
 
 ![unknown](https://user-images.githubusercontent.com/88659966/144093440-5825b336-4523-48e2-acf3-ddea5e04e853.png)
